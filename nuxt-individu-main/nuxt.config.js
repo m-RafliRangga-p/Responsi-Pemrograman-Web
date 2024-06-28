@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'my-nuxt-portfolio',
+    title: 'Mr.Rp Portfolio',
     htmlAttrs: {
       lang: 'en'
     },
