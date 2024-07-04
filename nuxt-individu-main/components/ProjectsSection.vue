@@ -4,7 +4,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-  <section class="projects section-padding bg">
+  <section id="projects" class="projects section-padding bg">
     <div class="container">
       <div class="row mb-3">
         <div class="col-12 text-center">
@@ -18,7 +18,11 @@
       </div>
       <div class="row justify-content-between">
         <div class="card ms-lg-3 mt-3" style="width: 23rem">
-          <img src="../assets/elixir.png" class="img-size filter-img" alt="elixir" />
+          <div class="image-zoom">
+            <div class="image-zoom-wrapper">
+              <img src="../assets/elixir.png" class="img-size filter-img" alt="elixir" />
+            </div>
+          </div>
           <div class="card-body bg-dark">
             <h5 class="card-title main-text text-center">Elixir Company Profile Project</h5>
             <p class="card-text text-white">
@@ -28,7 +32,11 @@
           </div>
         </div>
         <div class="card ms-lg-3 mt-3" style="width: 23rem">
-          <img src="../assets/bumdes.png" class="img-size filter-img" alt="elixir" />
+          <div class="image-zoom">
+            <div class="image-zoom-wrapper">
+              <img src="../assets/bumdes.png" class="img-size filter-img" alt="elixir" />
+            </div>
+          </div>
           <div class="card-body bg-dark">
             <h5 class="card-title main-text text-center">Promotional Web BUMDES</h5>
             <p class="card-text text-white">
@@ -38,7 +46,11 @@
           </div>
         </div>
         <div class="card ms-lg-3 mt-3" style="width: 23rem">
-          <img src="../assets/AI.png" class="img-size filter-img" alt="elixir" />
+          <div class="image-zoom">
+            <div class="image-zoom-wrapper">
+              <img src="../assets/AI.png" class="img-size filter-img" alt="elixir" />
+            </div>
+          </div>
           <div class="card-body bg-dark">
             <h5 class="card-title main-text text-center">Flappy Bird AI</h5>
             <p class="card-text text-white">
@@ -48,7 +60,11 @@
           </div>
         </div>
         <div class="card ms-lg-3 mt-3" style="width: 23rem">
-          <img src="../assets/AI.png" class="img-size filter-img" alt="elixir" />
+          <div class="image-zoom">
+            <div class="image-zoom-wrapper">
+              <img src="../assets/yudha.png" class="img-size filter-img" alt="elixir" />
+            </div>
+          </div>
           <div class="card-body bg-dark">
             <h5 class="card-title main-text text-center">Inventory System Using C#</h5>
             <p class="card-text text-white">

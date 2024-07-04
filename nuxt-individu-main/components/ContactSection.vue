@@ -4,7 +4,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-  <section class="contact section-padding bg">
+  <section id="contact" class="contact section-padding bg">
     <div class="container">
       <div class="row mb-3">
         <div class="col-12 text-center">
